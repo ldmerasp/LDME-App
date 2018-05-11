@@ -5,5 +5,7 @@ Programėlės kūrimo procesą galite pamatyti wiki skiltyje
 https://github.com/ldmerasp/LDME-App/wiki
 
 Komandos nariai: Lukas Šimkus, Deividas Pečiulionis, Marius Makusis, Edgaras Stonys
+
 Programėlės kodą rašo: Deividas Pečiulionis
+
 Programėlės dizainas: Edgaras Stonys
