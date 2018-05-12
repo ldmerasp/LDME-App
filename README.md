@@ -9,3 +9,9 @@ Komandos nariai: Lukas Šimkus, Deividas Pečiulionis, Marius Makusis, Edgaras S
 Programėlės kodą rašo: Deividas Pečiulionis
 
 Programėlės dizainas: Edgaras Stonys
+
+Kitos repozitorijos:
+
+https://github.com/ldmerasp/PHP/wiki
+
+https://github.com/ldmerasp/Python-kodai/wiki
