@@ -10,6 +10,8 @@ Programėlės kodą rašo: Deividas Pečiulionis
 
 Programėlės dizainas: Edgaras Stonys
 
+Dokumentacija ir analizė: Lukas Šimkus, Marius Makusis
+
 Kitos repozitorijos:
 
 https://github.com/ldmerasp/PHP/wiki
